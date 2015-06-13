@@ -1,5 +1,5 @@
-THIS SKY WAS UPDATED AT THE 27TH
-THE ORIG HAD SOME ERRORS
+Qt 5.5 implementation of a 3D Globe
+
 
 MIRAMAR
 high res 1024^2 environment map
@@ -12,4 +12,4 @@ www.zfight.com
 Stockholm, 2005 08 25
 
 
-Modify however you like, just cred me for my work, maybe link to my page.
+
