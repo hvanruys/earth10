@@ -37,7 +37,8 @@
 ** $QT_END_LICENSE$
 **
 ****************************************************************************/
-
+/****test*****/
+/******************/
 #include <QApplication>
 #include <QLabel>
 #include <QSurfaceFormat>
